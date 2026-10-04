@@ -1,2 +1,1 @@
-# jogoMario
-
+Como criar um jogo SIMPLES usando JavaScript e HTML
