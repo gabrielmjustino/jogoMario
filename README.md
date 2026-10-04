@@ -96,34 +96,18 @@ O projeto utiliza duas branches principais:
 - **main** — versão principal e integrada do projeto.
 - **dev** — branch utilizada para o desenvolvimento.
 
-O desenvolvimento deve ser realizado inicialmente na branch `dev`. Após a conclusão das alterações e realização dos commits necessários, a branch `dev` deverá ser integrada à `main` por meio de merge.
 
-### Commits
-
-Os commits são utilizados para registrar as etapas de desenvolvimento do projeto.
-
-Alguns exemplos:
-
-```
-chore: cria estrutura inicial do projeto
-docs: adiciona README
-chore: configura npm no frontend
-feat: cria tela inicial do jogo
-feat: implementa interface do jogador
-feat: adiciona componentes do jogo
-style: ajusta layout da interface
-fix: corrige problema na tela inicial
-```
 
 ## Integrantes
 
 | Nome                   | Matrícula       | Papel         |
 |------------------------|-----------------|---------------|
-| João Ferreira          | SUA_MATRÍCULA   | Scrum Master  |
-| NOME DO INTEGRANTE     | MATRÍCULA       | Desenvolvedor |
-| NOME DO INTEGRANTE     | MATRÍCULA       | Desenvolvedor |
-| NOME DO INTEGRANTE     | MATRÍCULA       | Documentador  |
-| NOME DO INTEGRANTE     | MATRÍCULA       | Testador      |
+| Gabriel Morais Justino | 01806064        | Scrum Master  |
+| Pedro Ferreira  Falcão | 01830497        | Desenvolvedor |
+| Maria Giulia Souza     | 01822824        | Desenvolvedor |
+| José Edeilson da Silva | 01805046        | Documentador  |
+| Henrique Gomes Gonzaga | 01796760        | Testador      |
+| Caique Barbosa Pimentel| 01799401        | Testador      |
 
 ## Licença
 
